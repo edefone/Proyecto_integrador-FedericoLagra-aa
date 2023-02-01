@@ -1,0 +1,172 @@
+  
+  * {
+    box-sizing: border-box;
+  }
+
+  *{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  }
+  
+  
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  [class*="col-"] {
+    float: right;
+    padding: 0px;
+    
+  }
+  
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+  
+  [class*="coll-"] {
+    float: left;
+    padding: 0px;
+    
+  }
+  
+  .coll-1 {width: 8.33%;}
+  .coll-2 {width: 16.66%;}
+  .coll-3 {width: 25%;}
+  .coll-4 {width: 33.33%;}
+  .coll-5 {width: 41.66%;}
+  .coll-6 {width: 50%;}
+  .coll-7 {width: 58.33%;}
+  .coll-8 {width: 66.66%;}
+  .coll-9 {width: 75%;}
+  .coll-10 {width: 83.33%;}
+  .coll-11 {width: 91.66%;}
+  .coll-12 {width: 100%;}
+
+  .titulo-nombre {
+    padding: 10px;
+    padding-left: 120px;
+    border: 0px;
+    margin: 0px; 
+  }
+  
+  .bordes {
+    margin:7px;
+    
+  }
+
+  .bordes2 {
+    margin:25px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    color: rgb(145, 112, 65);
+  }
+
+  .aside-color{
+    background-color: rgb(31, 41, 31);
+  }
+
+  .li-color{
+    color: white;
+
+  }
+
+  .header-color{
+    background-color: rgb(23, 30, 23);
+  }
+
+  .padding-titulo{
+    padding-left: 30px;
+  }
+
+  .img-padding{
+    padding-left: 25px;
+  }
+
+  .fondo-color2{
+    background-color: white;
+  }
+
+  .padding-cuerpo{
+    padding-bottom: 103px;
+  }
+
+  .padding-span{
+    padding-left: 40px;
+  }
+
+  .padding-parrafo{
+    padding-right: 250px;
+  }
+  
+  #info1{
+    display: none;
+  }
+  #info2{
+    display: none;
+  }
+  #info3{
+    display: none;
+  }
+  #info4{
+    display: none;
+  
+  }
+
+  .boton-margin{
+    margin-left: 27px;
+  }
+
+  #tocar1{
+    cursor:pointer
+  }
+  #tocar2{
+    cursor:pointer
+  }
+  #tocar3{
+    cursor:pointer
+  }
+  #tocar4{
+    cursor:pointer
+  }
+
+  #texto1{
+    display: none;
+  }
+  #texto2{
+    display: none;
+  }
+  #texto3{
+    display: none;
+  }
+  #texto4{
+    display: none;
+  }
+  #texto5{
+    display: none;
+  }
+  #texto6{
+    display: none;
+  }
+  #texto7{
+    display: none;
+  }
+  #texto8{
+    display: none;
+  }
+  #texto9{
+    display: none;
+  }
+  #texto10{
+    display: none;
+  }

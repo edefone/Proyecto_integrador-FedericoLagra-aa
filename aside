@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto Final: Argentina Programa</title>
+    <link rel="stylesheet" type="text/css" href="CSS estilos/1-style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"/>
+</head>
+<body>
+    <header >
+        <div class="row header-color">
+            <h1 class="col-9 li-color">PROYECTO INTEGRADOR FINAL</h1>
+        </div>
+        
+    </header>
+
+    <div class="row">
+    <div class="col-9">
+    
+        <h2 class="titulo-nombre fondo-color2">Federico Emanuel Lagraña</h2>
+    </div>
+
+    <div class="coll-3 aside-color">
+        <aside>
+            <div class="row">
+            <img class="img-padding" src="https://img.freepik.com/foto-gratis/retrato-joven-sonriente-gafas_171337-4842.jpg?w=2000" 
+            alt="Foto personal" height="150px" width="200px"/>
+            </div>
+    
+            <div class="row">
+             <ul>
+                <li class="li-color">25 años</li>
+                <li class="li-color">Nacionalidad Argentina</li>
+                <li class="li-color">26 de Julio de 1997</li>
+            </ul>
+            </div>
+    
+            
+
+            <div class="row">
+            <h3 class="li-color padding-titulo">CONTACTO</h3>
+            </div>
+    
+            <div class="row">
+            <ul>
+                <li class="li-color">(011)1563629539</li>
+                <li class="li-color">federico@gmail.com</li>
+                <li class="li-color">Federico Emanuel Lagraña</li>
+                <li class="li-color">Pi 314, Quilmes, Buenos aires</li>
+                <li class="li-color">C.P. 1844</li>
+                
+            </ul>
+            </div>
+    
+            <div class="row">
+            <h3 class="li-color padding-titulo">CONOCIMIENTOS</h3>
+            </div>
+    
+            <div class="row">
+            <ul>
+                <li class="li-color">Programacion</li>
+                <li class="li-color">Desarrollo web</li>
+                <li class="li-color">Ciencias biologicas</li>
+                <li class="li-color">Didactica y pedagogia</li>
+            </ul>
+            </div>
+    
+            <div class="row">
+            <h3 class="li-color padding-titulo">HABILIDADES</h3>
+            </div>
+    
+            <div class="row">
+            <ul>
+                <li class="li-color">Proactivo</li>
+                <li class="li-color">Capacidad de trabajo en equipo</li>
+                <li class="li-color">Mente abierta</li>
+                <li class="li-color">Resolucion de problemas</li>
+                <li class="li-color">Pensamiento logico fluido</li>
+                <li class="li-color">Capacidad de adaptacion</li>
+            </ul>
+            </div>
+    
+            <div class="row">
+            <h3 class="li-color padding-titulo">IDIOMAS</h3>
+            </div>
+    
+            <div class="row">
+            <ul>
+                <li class="li-color">Ingles intermedio-avanzado</li>
+            </ul>
+            </div>
+        </aside>
+    </div>
+        
+    <div class="col-9 fondo-color2 padding-cuerpo">
+
+    <div class="row">
+    <span class="col-11 padding-span">Developer Junior</span>
+    </div>
+    
+    <section>
+        <article>
+            <div class="row">
+                <i class="fa-solid fa-user col-9 bordes2"> Perfil personal</i>
+            </div>
+
+            <div class="row">
+            <p class="col-8 bordes padding-parrafo">Estudiuante que da sus primeros pasos en el mundo de la programacion
+                con conocimientos basicos en el desarrollo de paginas web frontend,
+                HTML, CSS y JavaScript. Con disposicion por seguir aprendiendo y trabajar. Otro punto a parte
+                para tener en cuenta es que soy un docente de biologia recibido y que ejercio durante 3 años
+                como docente estatal.
+            </p>
+            </div>
+
+        </article>
+
+        <article>
+            <div class="row">
+                <i class="fa-solid fa-graduation-cap col-9 bordes2"> formacion academica</i>
+            </div>
+
+            <div class="row">
+            <h4 class="col-8 bordes">Tecnico universitario de programacion</h4>
+            </div>
+
+            <div class="row">
+            <P class="col-8 bordes">Universidad CAECE (2021 - actualmente)
+            </P>
+            </div>
+        </article>
+
+        <article>
+            <div class="row">
+                <i class="fa-sharp fa-solid fa-briefcase col-9 bordes2"> experiencia laboral</i>
+            </div>
+
+            <div class="row">
+            <h4 class="col-8 bordes">Axxon Consulting (2022)</h4>
+            </div>
+
+            <div class="row">
+            <p class="col-8 bordes">Developer full stack junior</p>
+            </div>
+            <div class="row">
+            <p class="col-8 bordes">Trabajo remoto y sin experiencia</p>
+            </div>
+
+            <div class="row">
+            <h4 class="col-8 bordes">Work Marchr (2023)</h4> 
+            </div>
+
+            <div class="row">
+            <p class="col-8 bordes">Programador full stack junior</p>
+            </div>
+            <div class="row">
+            <p class="col-8 bordes">Para proyectos de loT</p>
+            </div>
+
+        </article>
+
+        <article>
+            <div class="row">
+            <i class="fa-sharp fa-solid fa-arrows-rotate col-9 bordes2"> actualizaciones</i>
+            </div>
+
+            <div class="row">
+            <h4 class="col-8 bordes">Argentina Programa: Se Programar (2022)</h4>
+            </div>
+            <div class="row">
+            <h4 class="col-8 bordes">Argentina Programa: Yo Programo (2023)</h4>
+            </div>
+        </article>
+    </section>
+</div>
+</div>
+    <footer></footer>
+</body>
+</html>
+
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+*{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+[class*="col-"] {
+  float: right;
+  padding: 0px;
+  
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+[class*="coll-"] {
+  float: left;
+  padding: 0px;
+  
+}
+
+.coll-1 {width: 8.33%;}
+.coll-2 {width: 16.66%;}
+.coll-3 {width: 25%;}
+.coll-4 {width: 33.33%;}
+.coll-5 {width: 41.66%;}
+.coll-6 {width: 50%;}
+.coll-7 {width: 58.33%;}
+.coll-8 {width: 66.66%;}
+.coll-9 {width: 75%;}
+.coll-10 {width: 83.33%;}
+.coll-11 {width: 91.66%;}
+.coll-12 {width: 100%;}
+
+.titulo-nombre {
+  padding: 10px;
+  padding-left: 120px;
+  border: 0px;
+  margin: 0px; 
+}
+
+.bordes {
+  margin:7px;
+  
+}
+
+.bordes2 {
+  margin:25px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  color: rgb(145, 112, 65);
+}
+
+.aside-color{
+  background-color: rgb(31, 41, 31);
+}
+
+.li-color{
+  color: white;
+
+}
+
+.header-color{
+  background-color: rgb(31, 41, 31);
+}
+
+.padding-titulo{
+  padding-left: 30px;
+}
+
+.img-padding{
+  padding-left: 25px;
+}
+
+.fondo-color2{
+  background-color: beige;
+}
+
+.padding-cuerpo{
+  padding-bottom: 80px;
+}
+
+.padding-span{
+  padding-left: 40px;
+}
+
+.padding-parrafo{
+  padding-right: 250px;
+}
+
